@@ -1,6 +1,7 @@
 # NUC RGB
 
 CLI to control the RGB LED on Intel NUC 11/12 Extreme, for Linux and Windows
+
 英特尔 NUC 11/12 Extreme 上的 RGB LED设置工具，适用于 Linux 和 Windows
 
 ## Requirements
